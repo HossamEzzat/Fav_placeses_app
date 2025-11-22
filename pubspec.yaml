@@ -39,6 +39,8 @@ dependencies:
   flutter_riverpod: ^3.0.3
   image_picker: ^1.2.1
   location: ^8.0.1
+  http: ^1.6.0
+  flutter_map: ^8.2.2
 
 dev_dependencies:
   flutter_test:
